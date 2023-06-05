@@ -7,7 +7,7 @@
 
 - 📫 ¿Cómo contactar conmigo?: **pablorodirguezz@gmail.com**
 
-- 📄 Mi experiencia: **3 Meses Prácticas en B17 (ASIR)**
+- 📄 Mi experiencia: **3 Meses Prácticas en B17 (ASIR)** | **3 Meses Prácticas en ATOS (DAW)**
 
 <p align="left">
 </p>
