@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente buscando empleo
 
-- 🌱 Ahora mismo aprendiendo: **Spring**
+- 🌱 Ahora mismo aprendiendo: **Laravel**
 
 - 📫 ¿Cómo contactar conmigo?: **pablorodirguezz@gmail.com**
 
