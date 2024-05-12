@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente buscando empleo
 
-- 🌱 Ahora mismo aprendiendo: **Laravel**
-
 - 📫 ¿Cómo contactar conmigo?: **pablorodirguezz@gmail.com**
 
 - 📄 Mi experiencia: 
